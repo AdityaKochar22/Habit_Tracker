@@ -114,8 +114,4 @@ MIT License — feel free to use this project for personal or commercial purpose
 
 ---
 
-## 📬 Contact
-
-Questions or suggestions? Open an issue or reach out!
-
 **Happy habit building! 🌱**
