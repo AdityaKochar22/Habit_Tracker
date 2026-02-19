@@ -60,10 +60,7 @@ Analytics across all habits:
 - **Category performance**: Success rate breakdown by Health & Fitness vs Nutrition & Lifestyle
 - **Habit leaderboard**: All habits ranked by average completion % with 🥇🥈🥉 medals
 
-### 💾 **Data Persistence**
-- All entries saved to browser `localStorage`
-- Data persists across sessions and page refreshes
-- No backend required — works 100% offline
+---
 
 ### 🎨 **Design**
 - **Minimalist light color scheme** with soft green accents
